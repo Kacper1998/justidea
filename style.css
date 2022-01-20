@@ -1,0 +1,346 @@
+html {
+    
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+    box-sizing: border-box;
+  }
+  
+  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+.mainsection {
+    width: 100%;
+    height: 1160px;
+    background-color: #ffffff;
+}
+.mainsection h1 {
+    color: #2f2f2f;
+    text-align: center;
+    margin-top: 70px;
+    font-size: 33px;
+    font-weight: bold;
+    font-family: 'Hind', sans-serif;
+}
+.mainsection p {
+    color: #80868c;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 25px;
+}
+.little_circle {
+  width:80px;
+  height:80px;
+  border-radius:50%;
+  background-color:#F4F7F9;
+  position:relative;
+  border: 2px solid #707070;
+}
+
+#little_one {
+  bottom:17em;
+  left:76em;
+  background: url("Inteligentny\ obiekt\ wektorowy-1.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_one p a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: -96px;
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 190px;
+}
+#little_two {
+  bottom:22em;
+  left:38em;
+  background: url("Inteligentny\ obiekt\ wektorowy-3.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_two a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: -210px;
+  text-decoration: none;
+}
+#little_three {
+  bottom:18em;
+  left:40em;
+  background: url("Inteligentny\ obiekt\ wektorowy-7.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_three p a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: -300px;
+  text-decoration: none;
+}
+#little_four {
+  bottom:23em;
+  left:74em;
+  background: url("Inteligentny\ obiekt\ wektorowy-6.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_four p a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: -219px;
+  text-decoration: none;
+  position: absolute;
+  left: 310px;
+}
+#little_five {
+  bottom:855px;
+  left: 1060px;
+  background: url("Inteligentny\ obiekt\ wektorowy-11.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_five p a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: -164px;
+  text-decoration: none;
+  position: absolute;
+  left: 270px;
+  top: 15px;
+}
+#little_six {
+  bottom:51em;
+  left:73em;
+  background: url("Inteligentny\ obiekt\ wektorowy-10.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_six p a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: -249px;
+  text-decoration: none;
+  position: absolute;
+  left: 350px;
+  top: 6px;
+}
+#little_seven {
+  bottom:66em;
+  left:57em;
+  background: url("Inteligentny\ obiekt\ wektorowy-12.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_seven p a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: -92px;
+  text-decoration: none;
+  position: absolute;
+  top: -50px;
+  left: 87px;
+}
+#little_eight {
+  bottom:68em;
+  left:48em;
+  background: url("Inteligentny\ obiekt\ wektorowy-9.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_eight p a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: -250px;
+  text-decoration: none;
+}
+#little_nine {
+  bottom:66em;
+  left:41em;
+  background: url("Inteligentny\ obiekt\ wektorowy-2.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_nine p a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: -350px;
+  text-decoration: none;
+}
+#little_ten {
+  bottom:46em;
+  left:48em;
+  background: url("Inteligentny\ obiekt\ wektorowy-8.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_ten p a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: -400px;
+  text-decoration: none;
+}
+#little_eleven {
+  bottom:49em;
+  left:57em;
+  background: url("Inteligentny\ obiekt\ wektorowy-11.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_eleven p a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: 255px;
+  text-decoration: none;
+}
+#little_twelve {
+  bottom:56em;
+  left:67em;
+  background: url("Inteligentny\ obiekt\ wektorowy-5.png");
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+#little_twelve p a {
+  color: #2F2F2F;
+  font-size: 16px;
+  font-family: 'Hind', sans-serif;
+  margin-left: -270px;
+  position: absolute;
+  top: 120px;
+  text-decoration: none;
+}
+.cogwheel img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 198px;
+}
+.second-section-form {
+    width: 100%;
+    height: 630px;
+    background-image: url("img2.png");
+}
+.second-section-form h1 {
+    padding-top: 40px;
+    text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+    font-family: 'Hind', sans-serif;
+    font-weight: bold;
+}
+.second-section-form p {
+    text-align: center;
+    color: #ffffff;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  
+  .container {
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  .col-33 {
+    float: left;
+    width: 33.3%;
+    margin-top: 6px;
+    padding: 0px 0px 0px 10px;
+  }
+  .col-100 {
+    float: left;
+    width: 100%;
+    margin-top: 6px;
+    padding-left: 10px;
+  }
+  
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  @media (max-width: 960px) {
+    .form input {
+      margin: 0px 0;
+    }
+    input[type=submit] {
+      width: 95%;
+      margin-top: 20px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .container-checkbox {
+      margin-left: 15px;
+    }
+  }
+    .form {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  .container-checkbox {
+    color: #ffffff;
+    display: table;
+    margin: 0 auto;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+  }
+  .blue-span {
+    color: #35A8E0;
+  }
+  .btn {
+      width: 165px;
+      height: 50px;
+      background-color: #35a8e0;
+      border: none;
+      color: #fff;
+      font-weight: bold;
+      border-radius: 5px;
+      margin-top: 25px;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+  }
+  .btn:hover {
+    background-color: dodgerblue;
+  }
+  
+  
